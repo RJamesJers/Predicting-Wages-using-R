@@ -21,7 +21,7 @@ Data Cleaning:
 - Square Root Transformations
 
 Analysis:
-- Creatng Correlation Table to see what variables were significant
+- Creating Correlation Table to see what variables were significant
 - Splitting data into Train and Test Samples
 - Training Model and Test Validation performance
 - Dropping insignificant variables to improve Model Performance
