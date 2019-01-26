@@ -9,3 +9,20 @@ To this end, the following model was created:
 
 4.17 	+ 0.38 * Weekly Hrs Worked 	+  1.07 * Education level + 8.348 * Standard error
 
+### Key Findings
+Weekly Wages are unsurprisingly dictated by both the Weekly Hours work and the Education Level of the employee. 
+Gender and Age also played a minor role, but were considered mostly insignificant.
+
+### Tasks undertaken
+
+
+Data Cleaning: 
+- Creating Dummy Variables
+- Removing Zero Values
+- Square Root Transformations
+
+Analysis:
+- Creatng Correlation Table to see what variables were significant
+- Splitting data into Train and Test Samples
+- Training Model and Test Validation performance
+- Dropping insignificant variables to improve Model Performance
