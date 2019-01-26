@@ -1,5 +1,4 @@
-# Predictive Modelling
-Predictive Analytics Assignment 1 using R
+# Predictive ModellingAssignment 1 using R
 
 ### Key Aim of Project
 
