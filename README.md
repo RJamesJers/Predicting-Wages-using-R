@@ -1,4 +1,4 @@
-# Predictive ModellingAssignment 1 using R
+# Predictive Modelling Assignment 1 using R
 
 ### Key Aim of Project
 
