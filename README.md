@@ -1,8 +1,8 @@
 # Predictive Modelling Assignment 1 using R
 
-### Key Aim of Project
+### Aim of Project
 
-The Key Aim of the project was to try and create a simple Multi-Variate Regression model which could be used to predict a Worker's Weekly Earnings.
+The Aim of the project was to try and create a simple Multi-Variate Regression model which could be used to predict a Worker's Weekly Earnings.
 
 To this end, the following model was created:
 
