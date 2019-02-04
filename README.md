@@ -10,7 +10,9 @@ Weekly Earnings = 4.17 	+ (0.38 * Weekly Hrs Worked) 	+  (1.07 * Education level
 
 ### Key Findings
 Model performance was weak, likely due to weak data correlation. 
+
 Weekly Wages are unsurprisingly dictated by both the Weekly Hours work and the Education Level of the employee. 
+
 Gender and Age also played a minor role, but were considered mostly insignificant.
 
 ### Tasks Undertaken
